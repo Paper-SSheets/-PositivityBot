@@ -1,0 +1,8 @@
+
+# These keys are from Twitter
+# https://developer.twitter.com/en/apps/16033351
+
+CONSUMER_KEY = 'ZApolzYgSYR4r6ZAXuDHR0l44'
+CONSUMER_SECRET = 'dUBjhoPsuGftUo7DFPyv25ExS17X3DwjFLzLI3q18hmOkEbqmn'
+ACCESS_KEY = '971932303218892800-pPTaGOUMVvcSf2eAUWK3CylHLC79K6U'
+ACCESS_SECRET = 'GvCpNAT5KmRsyEFDs3zDX47SI3NhmGeT1NcvtzNGjdEkD'
