@@ -50,8 +50,8 @@ def reply_to_tweets():
             api.update_status('@' + mention.user.screen_name + ' ' + 
 			random.choice(positive_sayings) + '#positivity', mention.id)	
 
-# This will keep the bot activated, however, you need 
-# to pay to keep the script going. See YouTube links.
+# This will keep the bot activated, however, you need to
+# pay to keep the script going. See YouTube links in the README.
 while True:
     reply_to_tweets()
     time.sleep(10)
