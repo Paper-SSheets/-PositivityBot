@@ -1,4 +1,4 @@
-# -PositivityBot
+# PositivityBot
 A Twitter Bot that will respond to "#Positivity" (not case-sensitive) with a randomly-selected positive phrase.
 
 Feel free to add to the list of #Positivity phrases, and check out these YouTube links I heavily used to help me out!
