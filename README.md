@@ -1,6 +1,8 @@
 # PositivityBot
 A Twitter Bot that will respond to "#Positivity" (not case-sensitive) with a randomly-selected positive phrase.
 
+In case you're wondering... keys.py is deprecated, but yours will look very similar! ;)
+
 Feel free to add to the list of #Positivity phrases, and check out these YouTube links I heavily used to help me out!
 
 * https://youtu.be/W0wWwglE1Vc
