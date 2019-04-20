@@ -16,3 +16,5 @@ Feel free to add to the list of #Positivity phrases, and check out these YouTube
 * https://youtu.be/CpO8mGJewnk?t=2
 
 * https://youtu.be/Fn6k-7zvo4w?t=5
+
+In the future I would like to add web-crawler capabilities to remove the need for a hardcoded list. And, for me personally, a server to keep this continuously running.
