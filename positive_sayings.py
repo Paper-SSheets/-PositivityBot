@@ -1,4 +1,3 @@
-
 # Create a list and just append whatever you want to it!
 
 positive_sayings = list()
@@ -57,7 +56,8 @@ positive_sayings.append("You have the smarts and the ability to get through this
 positive_sayings.append("Seek a new way of thinking about your situation.")
 positive_sayings.append("The answer is right before you, even if you can't see it yet.")
 positive_sayings.append("Believe in your ability to unlock the way and set yourself free.")
-positive_sayings.append("You have no right to compare yourself to anyone, for you do not know their whole story, nor them, yours.")
+positive_sayings.append(
+    "You have no right to compare yourself to anyone, for you do not know their whole story, nor them, yours.")
 positive_sayings.append("Compare youself only to that of your highest self.")
 positive_sayings.append("Choose to see the light that you are to this world.")
 positive_sayings.append("Be happy in your own skin and in your own circumstances.")
